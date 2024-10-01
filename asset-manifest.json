@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tech-courses/static/css/main.1ff90418.css",
+    "main.js": "/tech-courses/static/js/main.e7abb6ee.js",
+    "index.html": "/tech-courses/index.html",
+    "main.1ff90418.css.map": "/tech-courses/static/css/main.1ff90418.css.map",
+    "main.e7abb6ee.js.map": "/tech-courses/static/js/main.e7abb6ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ff90418.css",
+    "static/js/main.e7abb6ee.js"
+  ]
+}
