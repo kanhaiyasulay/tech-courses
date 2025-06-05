@@ -22,7 +22,7 @@ const App = () => {
       setCourses(output.data);
     }
     catch(error) {
-        toast.error("Network me koi dikkat hai");
+        toast.error("Network issue");
     }
     setLoading(false);
   }
